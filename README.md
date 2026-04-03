@@ -71,9 +71,13 @@ The full Gerber package generated:
 All files were verified in a Gerber viewer prior to upload, checking layer alignment, aperture definitions, and drill file integrity. The package was then submitted to the manufacturer portal where board specifications were finalised: material (FR-4), copper weight, surface finish, solder mask colour, silkscreen, and controlled impedance requirements where applicable.
 
 **Standards Referenced**
+
 IPC-2221B - Generic PCB Design Standard (clearances, drill, annular ring, trace sizing)
+
 IPC-A-610 - Acceptability of Electronic Assemblies (placement, solder joint, silkscreen criteria)
+
 J-STD-001 - Soldering Requirements (thermal relief, paste aperture, surface finish)
+
 IPC-2612 - Schematic Documentation Requirements
 
 **Tools Used**
