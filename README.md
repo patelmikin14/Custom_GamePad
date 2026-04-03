@@ -82,5 +82,5 @@ IPC-2612 - Schematic Documentation Requirements
 
 **Tools Used**
 
-KiCad 7 · Symbol Editor · Footprint Editor · ERC / DRC · Gerber / Excellon output · Mouser / DigiKey component validation · Gerber viewer
+KiCad · Symbol Editor · Footprint Editor · ERC / DRC · Gerber / Excellon output · Mouser / DigiKey component validation · Gerber viewer
 
