@@ -70,7 +70,7 @@ The full Gerber package generated:
 •	Drill file (.drl / Excellon format) - all via and through-hole positions and diameters
 All files were verified in a Gerber viewer prior to upload, checking layer alignment, aperture definitions, and drill file integrity. The package was then submitted to the manufacturer portal where board specifications were finalised: material (FR-4), copper weight, surface finish, solder mask colour, silkscreen, and controlled impedance requirements where applicable.
 
-**Standards Referenced**
+**Standards Referenced:**
 
 IPC-2221B - Generic PCB Design Standard (clearances, drill, annular ring, trace sizing)
 
@@ -81,5 +81,6 @@ J-STD-001 - Soldering Requirements (thermal relief, paste aperture, surface fini
 IPC-2612 - Schematic Documentation Requirements
 
 **Tools Used**
+
 KiCad 7 · Symbol Editor · Footprint Editor · ERC / DRC · Gerber / Excellon output · Mouser / DigiKey component validation · Gerber viewer
 
