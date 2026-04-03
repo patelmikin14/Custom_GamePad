@@ -1,5 +1,7 @@
 **GamePad. End-to-End PCB Design in KiCad**
+
 Custom Symbols · Footprint Engineering · DRC/ERC · IPC-Compliant Output · Gerber Package
+
 A full PCB design project executed entirely in KiCad, from blank schematic through to manufacturer-ready Gerber files. Every decision was made with manufacturing constraints and industry standards in mind.
 
 **1. Schematic design & library familiarization**
